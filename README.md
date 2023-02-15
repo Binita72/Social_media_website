@@ -1,5 +1,5 @@
 # Social_media_website
-In this project application is built in order to create social media website which has posts, users, likes, search, follows, user suggestions and more.
+This is a social network website built on Django Framework, that allows users to post short text-based messages. The users of this app can follow other users to see their posts or unfollow them to stop seeing their posts.
 
 Here are all the sections involved:
 
